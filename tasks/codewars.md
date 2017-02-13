@@ -10,7 +10,7 @@ Codewars
      2. http://www.codewars.com/kata/basic-mathematical-operations    Done
      3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters    Done
      4. http://www.codewars.com/kata/transportation-on-vacation    Done
-     5. http://www.codewars.com/kata/calculating-with-functions
+     5. http://www.codewars.com/kata/calculating-with-functions    Done
      6. http://www.codewars.com/kata/get-the-middle-character    Done
      7. http://www.codewars.com/kata/partition-on
      8. http://www.codewars.com/kata/word-count
