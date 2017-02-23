@@ -15,7 +15,7 @@ Codewars
      7. http://www.codewars.com/kata/partition-on
      8. http://www.codewars.com/kata/word-count
      9. http://www.codewars.com/kata/remove-first-and-last-character-part-two   Done
-     10. http://www.codewars.com/kata/implement-a-filter-function
+     10. http://www.codewars.com/kata/implement-a-filter-function   Done
      11. http://www.codewars.com/kata/prefill-an-array
      12. http://www.codewars.com/kata/cross-product-of-vectors
      13. http://www.codewars.com/kata/sequence-generator-1
