@@ -13,7 +13,7 @@ Codewars
      5. http://www.codewars.com/kata/calculating-with-functions    Done
      6. http://www.codewars.com/kata/get-the-middle-character    Done
      7. http://www.codewars.com/kata/partition-on
-     8. http://www.codewars.com/kata/word-count
+     8. http://www.codewars.com/kata/word-count    DOne
      9. http://www.codewars.com/kata/remove-first-and-last-character-part-two   Done
      10. http://www.codewars.com/kata/implement-a-filter-function   Done
      11. http://www.codewars.com/kata/prefill-an-array
