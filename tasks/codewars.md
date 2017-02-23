@@ -17,7 +17,7 @@ Codewars
      9. http://www.codewars.com/kata/remove-first-and-last-character-part-two   Done
      10. http://www.codewars.com/kata/implement-a-filter-function   Done
      11. http://www.codewars.com/kata/prefill-an-array
-     12. http://www.codewars.com/kata/cross-product-of-vectors
+     12. http://www.codewars.com/kata/cross-product-of-vectors   Done
      13. http://www.codewars.com/kata/sequence-generator-1
   - Part II 
      1. http://www.codewars.com/kata/closures-and-scopes
