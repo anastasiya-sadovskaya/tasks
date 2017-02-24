@@ -6,7 +6,7 @@ Codewars
   - https://www.codewars.com/kata/base-conversion/
 
   - Part I 
-     1. http://www.codewars.com/kata/opposite-number   Done
+     1. <u>http://www.codewars.com/kata/opposite-number </u>  Done
      2. http://www.codewars.com/kata/basic-mathematical-operations    Done
      3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters    Done
      4. http://www.codewars.com/kata/transportation-on-vacation    Done
