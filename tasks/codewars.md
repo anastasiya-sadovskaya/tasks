@@ -21,7 +21,7 @@ Codewars
      13. http://www.codewars.com/kata/sequence-generator-1
   - Part II 
      1. http://www.codewars.com/kata/closures-and-scopes
-     2/ http://www.codewars.com/kata/a-function-within-a-function
+     2. http://www.codewars.com/kata/a-function-within-a-function   Done
      3. http://www.codewars.com/kata/can-you-keep-a-secret
      4. http://www.codewars.com/kata/using-closures-to-share-class-state
      5. http://www.codewars.com/kata/a-chain-adding-function
