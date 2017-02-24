@@ -6,22 +6,22 @@ Codewars
   - https://www.codewars.com/kata/base-conversion/
 
   - Part I 
-     1. <u>http://www.codewars.com/kata/opposite-number </u>  Done
-     2. http://www.codewars.com/kata/basic-mathematical-operations    Done
-     3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters    Done
-     4. http://www.codewars.com/kata/transportation-on-vacation    Done
-     5. http://www.codewars.com/kata/calculating-with-functions    Done
-     6. http://www.codewars.com/kata/get-the-middle-character    Done
+     1. ~~http://www.codewars.com/kata/opposite-number~~
+     2. ~~http://www.codewars.com/kata/basic-mathematical-operations~~
+     3. ~~http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters~~
+     4. ~~http://www.codewars.com/kata/transportation-on-vacation~~
+     5. ~~http://www.codewars.com/kata/calculating-with-functions~~
+     6. ~~http://www.codewars.com/kata/get-the-middle-character~~
      7. http://www.codewars.com/kata/partition-on
-     8. http://www.codewars.com/kata/word-count    DOne
-     9. http://www.codewars.com/kata/remove-first-and-last-character-part-two   Done
-     10. http://www.codewars.com/kata/implement-a-filter-function   Done
+     8. ~~http://www.codewars.com/kata/word-count~~ 
+     9. ~~http://www.codewars.com/kata/remove-first-and-last-character-part-two~~
+     10. ~~http://www.codewars.com/kata/implement-a-filter-function~~ 
      11. http://www.codewars.com/kata/prefill-an-array
-     12. http://www.codewars.com/kata/cross-product-of-vectors   Done
+     12.~~http://www.codewars.com/kata/cross-product-of-vectors ~~
      13. http://www.codewars.com/kata/sequence-generator-1
   - Part II 
      1. http://www.codewars.com/kata/closures-and-scopes
-     2. http://www.codewars.com/kata/a-function-within-a-function   Done
+     2. ~~http://www.codewars.com/kata/a-function-within-a-function~~ 
      3. http://www.codewars.com/kata/can-you-keep-a-secret
      4. http://www.codewars.com/kata/using-closures-to-share-class-state
      5. http://www.codewars.com/kata/a-chain-adding-function
@@ -34,7 +34,7 @@ Codewars
      1. http://www.codewars.com/kata/santaclausable-interface
      2. http://www.codewars.com/kata/new-with-apply
      3. http://www.codewars.com/kata/extract-nested-object-reference
-     4. http://www.codewars.com/kata/array-helpers   Done
+     4. ~~http://www.codewars.com/kata/array-helpers~~
      5. http://www.codewars.com/kata/replicate-new
      6. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
      7. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
