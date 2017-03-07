@@ -29,7 +29,7 @@ Codewars
      7. ~~http://www.codewars.com/kata/function-composition~~
      8. http://www.codewars.com/kata/function-composition-1
      9. ~~http://www.codewars.com/kata/stringing-me-along~~
-     10. http://www.codewars.com/kata/i-spy
+     10. ~~http://www.codewars.com/kata/i-spy~~
   - Part III 
      1. ~~http://www.codewars.com/kata/santaclausable-interface~~
      2. ~~http://www.codewars.com/kata/new-with-apply~~
